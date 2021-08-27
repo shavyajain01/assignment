@@ -14,7 +14,7 @@ import org.openqa.selenium.interactions.Actions;
 public class DragAndDrop {
 
 	WebDriver driver;
-	String url=" https://jqueryui.com/droppable/";
+	String url=" https://jqueryui.com/droppable/";    
 	
 	@BeforeClass
 	public void setUp() throws Exception{ 
