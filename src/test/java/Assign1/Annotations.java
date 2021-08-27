@@ -15,7 +15,7 @@ import org.testng.annotations.AfterSuite;
 
 public class Annotations {
   @Test(dataProvider = "dp")
-  public void f(Integer n, String s) {
+  public void f(Integer n, String s) { 
   }
   @BeforeMethod
   public void beforeMethod() {
